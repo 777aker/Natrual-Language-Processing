@@ -1,0 +1,17 @@
+1 Comparison  O
+2 in  O
+3 alkaline  B
+4 phosphatases  I
+5 in O
+6 5 B
+7 - I
+8 nucleotidase  I
+9 . O
+
+1 Serum B
+2 gamma I
+3 glutamyltransferase I
+4 in  O
+5 the O
+6 diagnosis O
+7 . O

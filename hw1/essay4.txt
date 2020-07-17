@@ -1,0 +1,53 @@
+Nom Nom Project presentation notes
+Introductions
+Main problems with CU dining halls
+Sometimes it can be stressful getting a meal before class because you are not sure if the lines at the dining halls will take up too much time. On top of that who knows if you'll be able to find a table. Not to mention the fact that us picky eaters don’t always like what is being served. Stress no longer Find Me A Table is Here!
+How we solve this
+Using rasberry pi computers placed under the tables around CU’s dining halls our app will be able to tell you how busy an area is. Our software does this by tracking the amount of active bluetooth and wifi devices in the area. Our app also features an easy to access menu with the nutritional content of this food. 
+Prescendents
+At Universities across the world libraries are using Rasberry Pi computers to track the “busyness of a area.” By looking at how many wifi and bluetooth devices are in a area, software can determine how busy a area is. Our app would use this same method but replemented for cafeteria usage. 
+Process 
+The first part of our process was ideation. We began by thinking of the different problems and inconveniences we face in our daily interactions with Cu’s various dining halls. 
+To begin our ideation phase me and my partner began looking through our food journals to identify problems in our current eating habits. Since my partner, Kelley Kelley, lives on campus we mostly focused on problems we has with the CU dining halls. Here is a list of problems we came up with:
+What food to eat
+What food is best to eat before a certain activity
+What am I lacking nutritionally right now
+App that tells you what all the cu dining halls are serving
+Where to get certain meal you want
+No idea what I need nutritionally and whether what I’m eating is everything I need
+The food here isn’t that great but I don’t want to spend extra money and eat off campus
+No idea what the dining halls are serving before I show up
+Dining halls are always full
+After Identifying those problems we began coming up with solutions for those problems:
+Supplement based app that improves different aspects of your mood, focus, motivation, nootropic app
+Tables say if they are full
+App that says when the dining halls are open and what they are currently serving
+App that has the calories and nutritional info of a lot of stuff and you just search what you are eating and can put how much you ate to figure out what you still need for the day
+App that has a tab for what the dining halls are serving, what tables are full, and nutritional information about the food being served
+ 
+After coming up with those ideas we refined them down until we had our final idea. We then presented our idea to classmates to receive feedback.
+https://invis.io/TNUNTBUVPGD
+Future directions: 
+ 
+ 
+
+
+Recitation speed presenting:
+Students on campus have an inconvenient and unpleasant dining experience. To solve this, we have come up with an app that has all the information about campus dining a student could possibly need. Table availability, menus, feedback, compliment the chef, calories, dietary stuff. 
+Students have a terrible dining experience so we’ve made an app for all their needs. 
+Students have an inconvenient dining experience that we have solved through real time information on our easy to use app.
+Kelley Feedback
+Students have an inconvenient dining experience that we have solved through real time information on our easy to use app. 
+Students don’t know what’s on the menu, dining hours, nutritional information, convenient way to leave feedback.
+Simple easy sweet pitch first, then explain and expand
+Rhymes are great
+Understand the product
+Lines/wait time
+List out features maybe
+Real time information is an important part
+Mycuinfo advertise there, integrate it there so it’s not an external app, be more successful and students find it easier and all that good stuff
+Keegan Feedback
+start off with a question?
+Longer pitch still needs to be longer  
+https://kelleykelleycu.wordpress.com/2019/11/01/nom-nom-speed-pitches/
+

@@ -1,0 +1,100 @@
+<s> i want breakfast but i don't care </s> 
+<s> looking for lunch </s> 
+<s> um within fifteen and i would like to eat indian places are good restaurant that's uh </s> 
+<s> tell me about uh icsi </s> 
+<s> i'd like to a menu of course because sixty five kilometers </s> 
+<s> i'm willing to a distance any distance of uh what kind of the best place </s> 
+<s> i want to spend ten miles from icksee </s> 
+<s> au-coquelet </s> 
+<s> what about this night </s> 
+<s> the list of the list of miles of it should i can spend fifteen dollars </s> 
+<s> i'd like to know the brick hut cafe </s> 
+<s> where can you tell me more </s> 
+<s> let's start over </s> 
+<s> dinner </s> 
+<s> what is pretty close to eat some seafood </s> 
+<s> what about ten minutes from lococo's restaurant on shattuck avenue </s> 
+<s> american food </s> 
+<s> tell me about any kind of session </s> 
+<s> on university </s> 
+<s> ten dollars </s> 
+<s> monday morning </s> 
+<s> let's take any type of money </s> 
+<s> start again </s> 
+<s> just concerned about the maxim cafe </s> 
+<s> no more information about one looks <unk> for this afternoon brunch </s> 
+<s> start over </s> 
+<s> where i am wondering to find a reservation at a half an italian restaurants in walking distance doesn't matter </s> 
+<s> do you show me more than </s> 
+<s> i want to get a coffee </s> 
+<s> i want fast food </s> 
+<s> i'm poor i'm going on </s> 
+<s> i went to walk ten minutes </s> 
+<s> i would like is much is caffe nefeli </s> 
+<s> huh </s> 
+<s> i don't care what information on your list before </s> 
+<s> let's start over </s> 
+<s> cost but i don't want to eat in a german food </s> 
+<s> some information about fat slice pizza tonight </s> 
+<s> i would like indian food </s> 
+<s> are there any german restaurant </s> 
+<s> any price does not too much </s> 
+<s> i want to eat lunch </s> 
+<s> one i would like french restaurants </s> 
+<s> i'm looking for lunch please </s> 
+<s> i would like to spend about tuesday </s> 
+<s> i want to travel too </s> 
+<s> what about a <unk> the menu please </s> 
+<s> uh start over </s> 
+<s> tell me the restaurant </s> 
+<s> are open on friday for uh this </s> 
+<s> start over </s> 
+<s> is the weekend in on sunday only american food </s> 
+<s> i want a nice business dinner </s> 
+<s> no twenty dollars </s> 
+<s> could spend </s> 
+<s> what about metropole </s> 
+<s> i meant thirty dollars </s> 
+<s> not thai i would like to go to travel any amount of restaurants with two miles </s> 
+<s> within walking distance of the information about plearn's </s> 
+<s> great wall restaurant </s> 
+<s> does viva taqueria westside bakery </s> 
+<s> so i want american food </s> 
+<s> start over </s> 
+<s> give me about that serve spicy food </s> 
+<s> tell me additional information on monday </s> 
+<s> <unk> places </s> 
+<s> let's start over </s> 
+<s> i'm willing to eat chinese and then </s> 
+<s> can i have lunch and i'm willing to eat breakfast </s> 
+<s> within about taqueria </s> 
+<s> for five minutes walking distance </s> 
+<s> can you show me next saturday evening </s> 
+<s> do they serve <unk> for dinner tonight for lunch too far </s> 
+<s> uh a place </s> 
+<s> should be less than five dollars </s> 
+<s> twenty dollars </s> 
+<s> tell me i want to eat italian food and vegetables </s> 
+<s> i would like to inexpensive </s> 
+<s> twenty dollars </s> 
+<s> tell me more up to have uh what is ten dollar </s> 
+<s> now better for lunch </s> 
+<s> can get a cafe </s> 
+<s> do have breakfast </s> 
+<s> can i <unk> that list of italian restaurants in berkeley </s> 
+<s> i want to eat on any time does maharani </s> 
+<s> i increase the restaurant </s> 
+<s> i'd like to eat sandwiches a-go-go </s> 
+<s> next week </s> 
+<s> uh a long way to have any good greek wait for the distance i thought chez-panisse </s> 
+<s> tell me the caffe venezia </s> 
+<s> breakfast </s> 
+<s> i'd like to ten blocks </s> 
+<s> i'm interested in monday </s> 
+<s> could you know about mel's </s> 
+<s> where i want to have a <unk> </s> 
+<s> i have cambodian food </s> 
+<s> can you have breakfast </s> 
+<s> i want to go on the week day </s> 
+<s> show me before </s> 
+<s> oh um lunch </s> 

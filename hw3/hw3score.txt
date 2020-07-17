@@ -1,0 +1,19 @@
+words = data.split(' ')
+        dictionary = {'0': 0, '1': 0}
+        for c in dictionary:
+            summation = 0
+            for w in words:
+                if w in self.total:
+                    if c == '0' and w in self.negative:
+                        prob = self.negative[w] + 1
+                        prob /= self.negative_words + len(self.total)
+                        prob = np.log(prob)
+                        summation += prob
+                    elif c == '1' and w in self.positive:
+                        prob = self.positive[w] + 1
+                        prob /= self.positive_words + len(self.total)
+                        prob = np.log(prob)
+                        summation += prob
+            prob = np.log(0.5)
+            dictionary[c] = np.exp(prob + summation)
+        return dictionary
